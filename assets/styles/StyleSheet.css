@@ -1,0 +1,46 @@
+﻿.header-pic {
+    position: fixed;
+    left: 0;
+    right: 0;
+    z-index: 1;
+  
+    display: block;
+    background-image: url(../images/Sean-Ken-Pic/14720508_1487704404589420_2778311340378935021_n.jpg);
+    width: 100%;
+    height: 800px;
+  
+    -webkit-filter: blur(5px);
+    -moz-filter: blur(5px);
+    -o-filter: blur(5px);
+    -ms-filter: blur(5px);
+    filter: blur(5px);
+  }
+  
+  .content {
+    position: fixed;
+    left: 0;
+    right: 0;
+    z-index: 9999;
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+
+.inline-bar {
+    display: inline;
+
+}
+
+body{
+    padding-top: 40px;
+}
+
+.Grade {
+    text-align: center;
+    color: green;
+}
+
+.Prof-Job {
+    text-align: center;
+    margin-top: 180px;
+
+}
