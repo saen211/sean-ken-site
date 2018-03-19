@@ -1,4 +1,4 @@
-# sean-ken-site
+# Sean Kennedy's Website
 This is the repo for my personal website, this site will include:<br />
 <In Progress> 1.) Barebones using HTML and Bootstrap<br />
 <To-Do> 2.) Set up styles using CSS and make it look pretty<br />
